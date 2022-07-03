@@ -97,7 +97,8 @@ em{font-weight: bold;}
                            .white-section{padding: 5px 3px;}  
                            .press-logo {
                                         width: 20%;
-                                        margin:1.5%;}
+                                        margin:0;
+                                        padding:0;}
                                                       
                             .download-button{margin:4%;}
                             .copyright{padding:3%;}                   
