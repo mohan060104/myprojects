@@ -91,7 +91,17 @@ em{font-weight: bold;}
                             .carousel-indicators {
                               padding-top: 3%;
                             }
-                            #testimonials {min-height:300px; }       }
+                            #testimonials {min-height:inherit; } 
+                           .colored-section{padding:5px 3px;}    
+                           .big-heading{text-align:center;}      
+                           .white-section{padding: 5px 3px;}  
+                           .press-logo {
+                                        width: 20%;
+                                        margin:1.5%;}
+                                                      
+                            .download-button{margin:4%;}
+                            .copyright{padding:3%;}                   
+                                                         }
 
 /* Features */
 .feature-img {
