@@ -101,7 +101,10 @@ em{font-weight: bold;}
                                                       
                             .download-button{margin:4%;}
                             .copyright{padding:3%;}                   
-                                                          }
+                            .testimonial-text{font-size:1rem;
+                                            line-height:normal;
+                                             }  
+                                                 }
 
 /* Features */
 .feature-img {
