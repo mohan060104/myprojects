@@ -101,7 +101,7 @@ em{font-weight: bold;}
                                                       
                             .download-button{margin:4%;}
                             .copyright{padding:3%;}                   
-                                                         }
+                             body, html { overflow-x:hidden; }                             }
 
 /* Features */
 .feature-img {
